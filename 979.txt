@@ -1,0 +1,88 @@
+<HTML>
+<HEAD><TITLE>Домащенко , 6 група </TITLE> </head>
+<BODY bgcolor="yellow""> 
+
+<B><H3><P align="center"<FONT face="Times new roman">Тім Бернерс-Лі</H3></FONT></P></B><br>
+
+
+     
+<B><H2><FONT face="Times new roman">Зміст</H2> </B>
+
+<A href="#1. Біографія"> 1. Біографія</A> <br>
+<A href="#2.Винаходи"> 2.Винаходи </A>  <br>
+<A href="#3.Звання"">3.Звання </A> <br> 
+<A href="#4.нагороди">4.нагороди</A></FONT>
+<B><H3 ><P align= "center"><A name="1.Біографія ">Біографія</A></P></H3></B>
+ <IMG src="Y.jpg"><br> <br>
+<FONT color="red"<P align= "left">Ві?льям Ге?нрі Гейтс III (англ. William Henry "Bill" Gates III ; * 28 жовтня 1955, Сіетл, США) — американський бізнесмен, інвестор, автор, філантроп і засновник корпорації Майкрософт, співголова Фонду Білла і Мелінди Гейтс. Протягом кар'єри в Microsoft, Гейтс займав позиції голови ради директорів, CEO та головного архітектора, одночасно до травня 2014 також будучи найбільшим акціонером.<br>
+
+Microsoft був створений Гейтсом і Полом Алленом в 1975, і став найбільшою компанією з розробки програмного забезпечення для ПК.Гейтс керував компанією як головний виконавчий директор, поки не облишив цю посаду в січні 2000 року, залишаючись головою ради директорів і створивши для себе посаду головного архітектора.<br>
+
+У червні 2006, Гейтс оголосив, що він переходитиме з повної на часткову зайнятість в Microsoft, і працюватиме повний робочий день у Фонді Білла і Мелінди Гейтс, заснованому в 2000. Поступово він передав свої обов'язки Рею Оззі та Крейгу Манді. Він покинув посаду голови Microsoft в лютому 2014 і прийняв позицію технологічного радника, аби підтримати новообраного виконавчого директора Сатья Наделла.<br>
+
+Гейтс є одним з найвідоміших підприємців революції персонального комп'ютера. Його критикували за його бізнес-практики[en], які вважаються антиконкурентними. Ця думка була підтримана численними судовими рішеннями.Пізніше в своїй кар'єрі, Гейтс зайнявся філантропією. Через фонд Фонд Білла і Мелінди Гейтс він пожертвував багато коштів на різноманітні благодійні організації та наукові дослідницькі програми.<br>
+
+З 1987 року, Гейтса включають в список найбагатших людей світу від журналу Forbes , список людей багатство яких задокументовано, і точно визначено.
+
+Всі роки, окрім чотирьох з 1995 до 2017, він був найбагатшою людиною в світі за версією Forbes, і займав найвище місце постійно від березня 2014 до липня 2017, з багатством оціненим в 89.9 мільярдів доларів США станом на жовтень 2017. Щоправда, в 27 липня 2017, і з 27 жовтня 2017, його обійшов засновник і генеральний директор компанії Amazon Джеф Безос, чиї статки на той час оцінювались в $90,6 мільярдів доларів.<br>
+
+В 2009 році, Гейтс і Воррен Баффетт створили кампанію "Клятва дарування", в якій вони та інші мільярдери обіцяють витратити щонайменше половину свого багатства на філантропію. Кампанія працює задля збереження життів і покращення глобального рівня здоров'я, а також співпрацює з Rotary International з метою знищення поліомієліту. Станом на 10 березня 2018, Гейтсове багатство оцінюється в 92,2 мільярда доларів, що робить його другою за багатством людиною на світі, після Безоса.<br>
+
+</P></Font> <br>
+<H2><A href="#top"><P align="center">Вгору</P></A></H2><br>
+
+<h3><B><P align= "center"> <A name="2.Марк Цукерберг"> Марк Цукерберг </A> </P></B></h3>
+<IMG src="u.jpg" width="20%"> <br> <br>
+<FONT color="olive"<P align= "left">Марк Цу?керберг (За?керберг) (англ. Mark Zuckerberg, /?m?rk ?z?k?rb??r?/; нар. 14 травня 1984, Вайт-Плейнс, Нью-Йорк, США) — американський програміст та підприємець, розробник і засновник соціальної мережі Facebook. У 2008 став наймолодшим у світі мільярдером. Мешкає в Пало-Альто, Каліфорнія.<br>
+Цукерберг став багатим завдяки природній потребі людей до спілкування та їхньому прагненню до популярності. У лютому 2004 року він створив соціальну мережу Facebook, в якій користувачам пропонувалося розміщувати фотографії та будь-яку інформацію про себе: від наукових і творчих інтересів до гастрономічних і любовних переваг. Протягом чотирьох років звичайний соціальний портал університету став улюбленою Інтернет-адресою для мільйонів зареєстрованих користувачів. Facebook став популярним серед студентів в основному через зручності самоорганізації по групах, курсах і тусовках, які вже існують у вузах в офлайні. Станом на кінець грудня 2008 року на сайті було зареєстровано понад 80 мільйонів активних учасників, в листопаді 2009 року їх вже було 350 мільйонів[13], і кількість користувачів постійно зростає. У більшості англомовних країн це найпопулярніша соціальна мережа. Задуманий як сайт для спілкування студентів Гарварду, Facebook перетворився на першу у світі соціальну мережу. Сьогодні журнал «Forbes» оцінює річні продажі сайту в $ 150 млн.<br>
+
+На думку співробітників компанії Facebook inc. їхня мережа має дві принципові відмінності від інших соціальних мереж. По-перше, тут реальні люди шукають реально існуючих людей, з адресою на тому ж поштовому домені. По-друге, на Facebook ви самі визначаєте для яких груп користувачів доступна ваша інформація: тільки однокурсникам або всім мешканцям кампусу, тільки землякам або, припустимо, всім шанувальникам живопису Леонардо да Вінчі.<br>
+
+На жаль, багатомільйонна мережа Facebook не могла не привернути злочинних елементів у своїх кримінальних діяннях. Серед них виявилися і самі співробітники служби Facebook, які пропонували користувачеві (під загрозою припинення доступу до своєї мережі) надати інформацію особистого характеру, в тому числі копії паспортів, посвідчень, посвідчень водія і т. д. <br>
+
+Зараз штаб-квартира компанії Facebook inc. розміщується у великому 3-поверховому комплексі в Пало-Альто (Каліфорнія). Є також філії в Нью-Йорку, Лондоні, та в інших великих містах світу.
+
+На початку існування facebook Марк Цукерберг використав дані логінів користувачів, щоб зламати їхню електронну пошту.</P></FONT><br>
+<H2><A href="#top"><P align="center">Вгору</P></A></H2><br>
+
+<H3 ><B><P align= "center"> <A name="3.Стів Джобс" > Стів Джобс </A> </P></B></H3>
+
+<IMG src="r.jpg" width="20%"> <br> <br>
+
+<FONT color="darkviolet"<P align= "left">Сті?вен Пол Джобс (англ. Steven Paul Jobs, Steve Jobs; 24 лютого 1955 — 5 жовтня 2011) — американський підприємець і винахідник.<br>
+
+Був засновником, членом ради директорів і CEO (генеральним директором) корпорації Apple Inc.. Джобс також раніше займав посаду CEO компанії Pixar Animation Studios; в 2006 році The Walt Disney Company придбав Pixar і Джобс став членом ради директорів Disney. У 1995 році в мультфільмі «Історія іграшок» він був зазначений як виконавчий продюсер.<br>
+
+Наприкінці 1970-х Джобс зі співзасновником компанії Apple Стівом Возняком створили один з перших комерційно успішних персональних комп'ютерів. На початку 1980-х Джобс був одним з перших, хто побачив потенціал керованого мишкою графічного інтерфейсу користувача, що призвело до створення Macintosh.<br>
+
+Втративши владу в боротьбі з радою директорів 1985 року, Джобс був звільнений з Apple і організував NeXT, яка спеціалізувалася на ринках бізнесу та вищої освіти. У 1996 році Apple придбав NeXT, а Джобс повернувся в компанію, яку співзаснував, і пробув її CEO з 1997 по 2011 роки. У журналі «Fortune» Стів Джобс був названий найвпливовішим підприємцем 2007 і потрапив до списку топ-менеджерів 2009.<br>
+
+1986 року Стів купив у Lucasfilm студію комп'ютерної графіки The Graphics Group, пізніше перейменовану в «Pixar». Він був її генеральним директором і основним акціонером до придбання її «Уолтом Діснеєм» 2006 року. До кінця свого життя Джобс був акціонером та членом ради директорів «The Walt Disney Company».<br>
+
+Після його смерті, 24 жовтня 2011 року вийшла його біографія «Стів Джобс».</P></FONT><br>
+<H2><A href="#top"><P align="center">Вгору</P></A></H2><br>
+
+<H3><B><P align= "center"><A name="4.Лінус Торвальдс">Лінус Торвальдс</A></P></B></H3>
+<IMG src="n.jpg" width="20%"> <br> <br>
+
+<P align= "left">Лінус Бенедікт Торвальдс (швед. Linus Benedict Torvalds; народився 28 грудня 1969 у Гельсінкі, Фінляндія) — фінський програміст шведського походження, започаткував розробку ядра операційної системи Лінукс, є її головним архітектором, а також автор найвідомішої розподіленої системи керування версіями файлів Git. 2012 року за створення Linux нагороджений премією Millennium Technology Prize.<br>
+</P> <Br>
+<H2><A href="#top"><P align="center">Вгору</P></A></H2><br>
+
+<br>
+Джерела:
+<UL>
+<LI><A href="https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BB%D0%BB_%D0%93%D0%B5%D0%B9%D1%82%D1%81"> https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BB%D0%BB_%D0%93%D0%B5%D0%B9%D1%82%D1%81</A>
+<LI><A href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA_%D0%A6%D1%83%D0%BA%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D0%B3">https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA_%D0%A6%D1%83%D0%BA%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D0%B3</A>
+<LI><A href="https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D1%96%D0%B2_%D0%94%D0%B6%D0%BE%D0%B1%D1%81">https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D1%96%D0%B2_%D0%94%D0%B6%D0%BE%D0%B1%D1%81</A>
+<LI><A href="https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D0%BD%D1%83%D1%81_%D0%A2%D0%BE%D1%80%D0%B2%D0%B0%D0%BB%D1%8C%D0%B4%D1%81">https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D0%BD%D1%83%D1%81_%D0%A2%D0%BE%D1%80%D0%B2%D0%B0%D0%BB%D1%8C%D0%B4%D1%81</A>
+</UL>
+
+
+</FONT>
+
+
+ <div style="text-align: right;position: fixed;z-index:9999999;bottom: 0;width: auto;right: 1%;cursor: pointer;line-height: 0;display:block !important;"><a title="Hosted on free web hosting 000webhost.com. Host your own website for FREE." target="_blank" href="https://www.000webhost.com/?utm_source=000webhostapp&utm_campaign=000_logo&utm_medium=website&utm_content=footer_img"><img src="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png" alt="www.000webhost.com"></a></div><script>function getCookie(e){for(var t=e+"=",n=decodeURIComponent(document.cookie).split(";"),o=0;o<n.length;o++){for(var i=n[o];" "==i.charAt(0);)i=i.substring(1);if(0==i.indexOf(t))return i.substring(t.length,i.length)}return""}getCookie("hostinger")&&(document.cookie="hostinger=;expires=Thu, 01 Jan 1970 00:00:01 GMT;",location.reload());var notification=document.getElementsByClassName("notice notice-success is-dismissible"),hostingerLogo=document.getElementsByClassName("hlogo"),mainContent=document.getElementsByClassName("notice_content")[0],newList=["Powerful and Easy-To-Use Control Panel.","1-Click Auto Installer and 24/7 Live Support.","Free Domain, Email and SSL Bundle.","5x faster WordPress performance","Weekly Backups and Fast Response Time."];if(0<notification.length&&null!=mainContent){var googleFont=document.createElement("link");googleFontHref=document.createAttribute("href"),googleFontRel=document.createAttribute("rel"),googleFontHref.value="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600",googleFontRel.value="stylesheet",googleFont.setAttributeNode(googleFontHref),googleFont.setAttributeNode(googleFontRel);var css="@media only screen and (max-width: 768px) {.web-hosting-90-off-image-wrapper {position: absolute;} .notice_content {justify-content: center;} .web-hosting-90-off-image {opacity: 0.3;}} @media only screen and (min-width: 769px) {.notice_content {justify-content: space-between;} .web-hosting-90-off-image-wrapper {padding: 0 5%}} .content-wrapper {z-index: 5} .notice_content {display: flex; align-items: center;} * {-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;} .upgrade_button_red_sale{border: 0; border-radius: 3px; background-color: #ff123a !important; padding: 15px 55px !important; margin-left: 30px; font-family: 'Open Sans', sans-serif; font-size: 16px; font-weight: 600; color: #ffffff;} .upgrade_button_red_sale:hover{color: #ffffff !important; background: #d10303 !important;}",style=document.createElement("style"),sheet=window.document.styleSheets[0];style.styleSheet?style.styleSheet.cssText=css:style.appendChild(document.createTextNode(css)),document.getElementsByTagName("head")[0].appendChild(style),document.getElementsByTagName("head")[0].appendChild(googleFont);var button=document.getElementsByClassName("upgrade_button_red")[0],link=button.parentElement;link.setAttribute("href","https://www.hostinger.com/hosting-starter-offer?utm_source=000webhost&utm_medium=panel&utm_campaign=000-wp"),link.innerHTML='<button class="upgrade_button_red_sale">TRANSFER NOW</button>',(notification=notification[0]).setAttribute("style","padding-bottom: 10px; padding-top: 5px; background-image: url(https://cdn.000webhost.com/000webhost/promotions/springsale/mountains-neon-background.jpg); background-color: #000000; background-size: cover; background-repeat: no-repeat; color: #ffffff; border-color: #ff123a; border-width: 8px;"),notification.className="notice notice-error is-dismissible",(hostingerLogo=hostingerLogo[0]).setAttribute("src","https://cdn.000webhost.com/000webhost/promotions/springsale/logo-hostinger-white.svg"),hostingerLogo.setAttribute("style","float: none !important; height: auto; max-width: 100%; margin: 40px 20px 10px 30px;");var h1Tag=notification.getElementsByTagName("H1")[0];h1Tag.remove();var paragraph=notification.getElementsByTagName("p")[0];paragraph.innerHTML="Fast & Secure Web Hosting. <br>Limited time offer: get an SSL certificate for FREE",paragraph.setAttribute("style",'max-width: 600px; margin-left: 30px; font-family: "Open Sans", sans-serif; font-size: 22px; font-weight: 600;');var list=notification.getElementsByTagName("UL")[0];list.setAttribute("style","max-width: 675px;");for(var listElements=list.getElementsByTagName("LI"),i=0;i<newList.length;i++)listElements[i].setAttribute("style","color:#ffffff; list-style-type: disc; margin-left: 30px; font-family: 'Open Sans', sans-serif; font-size: 14px; font-weight: 300; line-height: 1.5;"),listElements[i].innerHTML=newList[i];listElements[listElements.length-1].remove();var org_html=mainContent.innerHTML,new_html='<div class="content-wrapper">'+mainContent.innerHTML+'</div><div class="web-hosting-90-off-image-wrapper"><img class="web-hosting-90-off-image" src="https://cdn.000webhost.com/000webhost/promotions/springsale/web-hosting-90-off.png"></div>';mainContent.innerHTML=new_html;var saleImage=mainContent.getElementsByClassName("web-hosting-90-off-image")[0];!function(){var t=document.querySelectorAll("body.wp-admin")[0];function e(){var e=document.createElement("iframe");e.id="hgr-promo-widget",e.setAttribute("src","https://www.hostinger.com/widgets/bottom-banner-sale/000_wp_admin"),e.setAttribute("allowfullscreen",!0),e.setAttribute("frameborder",0),e.style.cssText="z-index: 2147483000 !important;position: fixed !important;bottom: 0; width: 100%;!important; left: 0!important;",e.style.opacity=0,e.onload=function(){iFrameResize({},"#hgr-promo-widget"),e.style.opacity=1},t.insertAdjacentElement("afterend",e)}if(window.iFrameResize)e();else{var n=document.createElement("script");n.type="text/javascript",t.insertAdjacentElement("afterend",n),n.onload=e,n.src="https://unpkg.com/iframe-resizer@3.6.3/js/iframeResizer.min.js"}}()}</script></body>
+
+
+</HTML>
